@@ -1,0 +1,191 @@
+Date,Location,Opponent,Goal_For,Goal_Against,Result,Venue_code,opp_code,target
+2018-08-18,Home,Deportivo Alavés,3,0,W,1,5,1
+2018-08-25,Away,Real Valladolid CF,1,0,W,0,18,1
+2018-02-09,Home,SD Huesca,8,2,W,1,20,1
+2018-09-15,Away,Real Sociedad,2,1,W,0,17,1
+2018-09-23,Home,Girona FC,2,2,D,1,8,0
+2018-09-26,Away,CD Leganés,1,2,L,0,3,0
+2018-09-29,Home,Athletic Club,1,1,D,1,0,0
+2018-07-10,Away,Valencia CF,1,1,D,0,23,0
+2018-10-20,Home,Sevilla FC,4,2,W,1,21,1
+2018-10-28,Home,Real Madrid,5,1,W,1,16,1
+2018-03-11,Away,Rayo Vallecano,3,2,W,0,14,1
+2018-11-11,Home,Real Betis,3,4,L,1,15,0
+2018-11-24,Away,Atlético de Madrid,1,1,D,0,1,0
+2018-02-12,Home,Villarreal CF,2,0,W,1,24,1
+2018-08-12,Away,RCD Espanyol,4,0,W,0,12,1
+2018-12-16,Away,Levante UD,5,0,W,0,10,1
+2018-12-22,Home,RC Celta,2,0,W,1,11,1
+2019-06-01,Away,Getafe CF,2,1,W,0,7,1
+2019-01-13,Home,SD Eibar,3,0,W,1,19,1
+2019-01-20,Home,CD Leganés,3,1,W,1,3,1
+2019-01-27,Away,Girona FC,2,0,W,0,8,1
+2019-02-02,Home,Valencia CF,2,2,D,1,23,0
+2019-10-02,Away,Athletic Club,0,0,D,0,0,0
+2019-02-16,Home,Real Valladolid CF,1,0,W,1,18,1
+2019-02-23,Away,Sevilla FC,4,2,W,0,21,1
+2019-02-03,Away,Real Madrid,1,0,W,0,16,1
+2019-09-03,Home,Rayo Vallecano,3,1,W,1,14,1
+2019-03-17,Away,Real Betis,4,1,W,0,15,1
+2019-03-30,Home,RCD Espanyol,2,0,W,1,12,1
+2019-02-04,Away,Villarreal CF,4,4,D,0,24,0
+2019-06-04,Home,Atlético de Madrid,2,0,W,1,1,1
+2019-04-13,Away,SD Huesca,0,0,D,0,20,0
+2019-04-20,Home,Real Sociedad,2,1,W,1,17,1
+2019-04-23,Away,Deportivo Alavés,2,0,W,0,5,1
+2019-04-27,Home,Levante UD,1,0,W,1,10,1
+2019-04-05,Away,RC Celta,0,2,L,0,11,0
+2019-12-05,Home,Getafe CF,2,0,W,1,7,1
+2019-05-19,Away,SD Eibar,2,2,D,0,19,0
+2019-08-16,Away,Athletic Club,0,1,L,0,0,0
+2019-08-25,Home,Real Betis,5,2,W,1,15,1
+2019-08-31,Away,CA Osasuna,2,2,D,0,2,0
+2019-09-14,Home,Valencia CF,5,2,W,1,23,1
+2019-09-21,Away,Granada CF,0,2,L,0,9,0
+2019-09-24,Home,Villarreal CF,2,1,W,1,24,1
+2019-09-28,Away,Getafe CF,2,0,W,0,7,1
+2019-06-10,Home,Sevilla FC,4,0,W,1,21,1
+2019-10-19,Away,SD Eibar,3,0,W,0,19,1
+2019-10-29,Home,Real Valladolid CF,5,1,W,1,18,1
+2019-02-11,Away,Levante UD,1,3,L,0,10,0
+2019-09-11,Home,RC Celta,4,1,W,1,11,1
+2019-11-23,Away,CD Leganés,2,1,W,0,3,1
+2019-01-12,Away,Atlético de Madrid,1,0,W,0,1,1
+2019-07-12,Home,RCD Mallorca,5,2,W,1,13,1
+2019-12-14,Away,Real Sociedad,2,2,D,0,17,0
+2019-12-18,Home,Real Madrid,0,0,D,1,16,0
+2019-12-21,Home,Deportivo Alavés,4,1,W,1,5,1
+2020-04-01,Away,RCD Espanyol,2,2,D,0,12,0
+2020-01-19,Home,Granada CF,1,0,W,1,9,1
+2020-01-25,Away,Valencia CF,0,2,L,0,23,0
+2020-02-02,Home,Levante UD,2,1,W,1,10,1
+2020-09-02,Away,Real Betis,3,2,W,0,15,1
+2020-02-15,Home,Getafe CF,2,1,W,1,7,1
+2020-02-22,Home,SD Eibar,5,0,W,1,19,1
+2020-01-03,Away,Real Madrid,0,2,L,0,16,0
+2020-07-03,Home,Real Sociedad,1,0,W,1,17,1
+2020-06-13,Away,RCD Mallorca,4,0,W,0,13,1
+2020-06-16,Home,CD Leganés,2,0,W,1,3,1
+2020-06-19,Away,Sevilla FC,0,0,D,0,21,0
+2020-06-23,Home,Athletic Club,1,0,W,1,0,1
+2020-06-27,Away,RC Celta,2,2,D,0,11,0
+2020-06-30,Home,Atlético de Madrid,2,2,D,1,1,0
+2020-05-07,Away,Villarreal CF,4,1,W,0,24,1
+2020-08-07,Home,RCD Espanyol,1,0,W,1,12,1
+2020-11-07,Away,Real Valladolid CF,1,0,W,0,18,1
+2020-07-16,Home,CA Osasuna,1,2,L,1,2,0
+2020-07-19,Away,Deportivo Alavés,5,0,W,0,5,1
+2020-09-27,Home,Villarreal CF,4,0,W,1,24,1
+2020-01-10,Away,RC Celta,3,0,W,0,11,1
+2020-04-10,Home,Sevilla FC,1,1,D,1,21,0
+2020-10-17,Away,Getafe CF,0,1,L,0,7,0
+2020-10-24,Home,Real Madrid,1,3,L,1,16,0
+2020-10-31,Away,Deportivo Alavés,1,1,D,0,5,0
+2020-07-11,Home,Real Betis,5,2,W,1,15,1
+2020-11-21,Away,Atlético de Madrid,0,1,L,0,1,0
+2020-11-29,Home,CA Osasuna,4,0,W,1,2,1
+2020-05-12,Away,Cádiz CF,1,2,L,0,4,0
+2020-12-13,Home,Levante UD,1,0,W,1,10,1
+2020-12-16,Home,Real Sociedad,2,1,W,1,17,1
+2020-12-19,Home,Valencia CF,2,2,D,1,23,0
+2020-12-22,Away,Real Valladolid CF,3,0,W,0,18,1
+2020-12-29,Home,SD Eibar,1,1,D,1,19,0
+2021-03-01,Away,SD Huesca,1,0,W,0,20,1
+2021-06-01,Away,Athletic Club,3,2,W,0,0,1
+2021-09-01,Away,Granada CF,4,0,W,0,9,1
+2021-01-24,Away,Elche CF,2,0,W,0,6,1
+2021-01-31,Home,Athletic Club,2,1,W,1,0,1
+2021-07-02,Away,Real Betis,3,2,W,0,15,1
+2021-02-13,Home,Deportivo Alavés,5,1,W,1,5,1
+2021-02-21,Home,Cádiz CF,1,1,D,1,4,0
+2021-02-24,Home,Elche CF,3,0,W,1,6,1
+2021-02-27,Away,Sevilla FC,2,0,W,0,21,1
+2021-06-03,Away,CA Osasuna,2,0,W,0,2,1
+2021-03-15,Home,SD Huesca,4,1,W,1,20,1
+2021-03-21,Away,Real Sociedad,6,1,W,0,17,1
+2021-05-04,Home,Real Valladolid CF,1,0,W,1,18,1
+2021-10-04,Away,Real Madrid,1,2,L,0,16,0
+2021-04-22,Home,Getafe CF,5,2,W,1,7,1
+2021-04-25,Away,Villarreal CF,2,1,W,0,24,1
+2021-04-29,Home,Granada CF,1,2,L,1,9,0
+2021-02-05,Away,Valencia CF,3,2,W,0,23,1
+2021-08-05,Home,Atlético de Madrid,0,0,D,1,1,0
+2021-11-05,Away,Levante UD,3,3,D,0,10,0
+2021-05-16,Home,RC Celta,1,2,L,1,11,0
+2021-05-22,Away,SD Eibar,1,0,W,0,19,1
+2021-08-15,Home,Real Sociedad,4,2,W,1,17,1
+2021-08-21,Away,Athletic Club,1,1,D,0,0,0
+2021-08-29,Home,Getafe CF,2,1,W,1,7,1
+2021-09-20,Home,Granada CF,1,1,D,1,9,0
+2021-09-23,Away,Cádiz CF,0,0,D,0,4,0
+2021-09-26,Home,Levante UD,3,0,W,1,10,1
+2021-02-10,Away,Atlético de Madrid,0,2,L,0,1,0
+2021-10-17,Home,Valencia CF,3,1,W,1,23,1
+2021-10-24,Home,Real Madrid,1,2,L,1,16,0
+2021-10-27,Away,Rayo Vallecano,0,1,L,0,14,0
+2021-10-30,Home,Deportivo Alavés,1,1,D,1,5,0
+2021-06-11,Away,RC Celta,3,3,D,0,11,0
+2021-11-20,Home,RCD Espanyol,1,0,W,1,12,1
+2021-11-27,Away,Villarreal CF,3,1,W,0,24,1
+2021-04-12,Home,Real Betis,0,1,L,1,15,0
+2021-12-12,Away,CA Osasuna,2,2,D,0,2,0
+2021-12-18,Home,Elche CF,3,2,W,1,6,1
+2021-12-21,Away,Sevilla FC,1,1,D,0,21,0
+2022-02-01,Away,RCD Mallorca,1,0,W,0,13,1
+2022-08-01,Away,Granada CF,1,1,D,0,9,0
+2022-01-23,Away,Deportivo Alavés,1,0,W,0,5,1
+2022-06-02,Home,Atlético de Madrid,4,2,W,1,1,1
+2022-02-13,Away,RCD Espanyol,2,2,D,0,12,0
+2022-02-20,Away,Valencia CF,4,1,W,0,23,1
+2022-02-27,Home,Athletic Club,4,0,W,1,0,1
+2022-06-03,Away,Elche CF,2,1,W,0,6,1
+2022-03-13,Home,CA Osasuna,4,0,W,1,2,1
+2022-03-20,Away,Real Madrid,4,0,W,0,16,1
+2022-03-04,Home,Sevilla FC,1,0,W,1,21,1
+2022-10-04,Away,Levante UD,3,2,W,0,10,1
+2022-04-18,Home,Cádiz CF,0,1,L,1,4,0
+2022-04-21,Away,Real Sociedad,1,0,W,0,17,1
+2022-04-24,Home,Rayo Vallecano,0,1,L,1,14,0
+2022-01-05,Home,RCD Mallorca,2,1,W,1,13,1
+2022-07-05,Away,Real Betis,2,1,W,0,15,1
+2022-11-05,Home,RC Celta,3,1,W,1,11,1
+2022-05-15,Away,Getafe CF,0,0,D,0,7,0
+2022-05-22,Home,Villarreal CF,0,2,L,1,24,0
+2022-08-13,Home,Rayo Vallecano,0,0,D,1,14,0
+2022-08-21,Away,Real Sociedad,4,1,W,0,17,1
+2022-08-28,Home,Real Valladolid CF,4,0,W,1,18,1
+2022-03-09,Away,Sevilla FC,3,0,W,0,21,1
+2022-10-09,Away,Cádiz CF,4,0,W,0,4,1
+2022-09-17,Home,Elche CF,3,0,W,1,6,1
+2022-01-10,Away,RCD Mallorca,1,0,W,0,13,1
+2022-09-10,Home,RC Celta,1,0,W,1,11,1
+2022-10-16,Away,Real Madrid,1,3,L,0,16,0
+2022-10-20,Home,Villarreal CF,3,0,W,1,24,1
+2022-10-23,Home,Athletic Club,4,0,W,1,0,1
+2022-10-29,Away,Valencia CF,1,0,W,0,23,1
+2022-05-11,Home,UD Almería,2,0,W,1,22,1
+2022-08-11,Away,CA Osasuna,2,1,W,0,2,1
+2022-12-31,Home,RCD Espanyol,1,1,D,1,12,0
+2023-08-01,Away,Atlético de Madrid,1,0,W,0,1,1
+2023-01-02,Away,Real Betis,2,1,W,0,15,1
+2023-01-22,Home,Getafe CF,1,0,W,1,7,1
+2023-01-28,Away,Girona FC,1,0,W,0,8,1
+2023-05-02,Home,Sevilla FC,3,0,W,1,21,1
+2023-12-02,Away,Villarreal CF,1,0,W,0,24,1
+2023-02-19,Home,Cádiz CF,2,0,W,1,4,1
+2023-02-26,Away,UD Almería,0,1,L,0,22,0
+2023-05-03,Home,Valencia CF,1,0,W,1,23,1
+2023-12-03,Away,Athletic Club,1,0,W,0,0,1
+2023-03-19,Home,Real Madrid,2,1,W,1,16,1
+2023-01-04,Away,Elche CF,4,0,W,0,6,1
+2023-10-04,Home,Girona FC,0,0,D,1,8,0
+2023-04-16,Away,Getafe CF,0,0,D,0,7,0
+2023-04-23,Home,Atlético de Madrid,1,0,W,1,1,1
+2023-04-26,Away,Rayo Vallecano,1,2,L,0,14,0
+2023-04-29,Home,Real Betis,4,0,W,1,15,1
+2023-02-05,Home,CA Osasuna,1,0,W,1,2,1
+2023-05-14,Away,RCD Espanyol,4,2,W,0,12,1
+2023-05-20,Home,Real Sociedad,1,2,L,1,17,0
+2023-05-23,Away,Real Valladolid CF,1,3,L,0,18,0
+2023-05-28,Home,RCD Mallorca,3,0,W,1,13,1
+2023-04-06,Away,RC Celta,1,2,L,0,11,0
